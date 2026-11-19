@@ -27,8 +27,6 @@ Todos os projetos têm testes automatizados rodando no GitHub Actions.
 ## 🎓 Formação
 
 - **Análise e Desenvolvimento de Sistemas**, Uninter (cursando)
-- **Técnico em Eletrotécnica**, CPET (cursando)
-- **Gestão Pública**, Uninter (cursando)
 - **Elétrica Industrial**, Senai
 
 ## 📫 Contato
